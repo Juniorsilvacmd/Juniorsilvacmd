@@ -14,7 +14,7 @@
 <img align="center" alt="EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img align="center" alt="MICROSOFT" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />  Manychat
 
- Manychat
+ 
 
 ### 💻 Terminal
 <img align="CMD" alt="MICROSOFT" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
