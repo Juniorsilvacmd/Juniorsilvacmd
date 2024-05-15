@@ -21,7 +21,7 @@
 
 
 </div><br/>
-✅Desenvolvedor flutter e python com experiência  em Cisco Packet Tracer, Atualmente trabalhando como Desenvolvedor Dart/flutter (obs. as vezes)
+✅Desenvolvedor flutter e python com experiência  em Cisco Packet Tracer.
 
 ---------------------------
 
